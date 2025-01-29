@@ -9,7 +9,7 @@
 - APIs: RESTful APIs, GraphQL
 
 ### 🎨 Frontend Skills
-- Frameworks/Libraries: React
+- Frameworks/Libraries: React, Redux
 - Languages: HTML, CSS, JavaScript
 
 ### 🛢️ Databases:
