@@ -13,7 +13,7 @@
 - Languages: HTML, CSS, JavaScript
 
 ### 🛢️ Databases:
-MySQL, MongoDB, Redis
+- MySQL, MongoDB, Redis
 
 ### 🛠 DevOps Skills
 - Containerization: Docker
