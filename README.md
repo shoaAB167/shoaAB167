@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Shoaib Shaikh!  
 
-<!--
-**shoaAB167/shoaAB167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a passionate **Full Stack Developer 🚀** with expertise in High-Level and Low-Level Design (HLD/LLD), and strong problem-solving abilities.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Backend Skills
+- Languages: Java, Javascript, Node.js, Spring Framework, Spring Boot, Hibernate, Microservices
+- APIs: RESTful APIs, GraphQL
+
+### 🎨 Frontend Skills
+- Frameworks/Libraries: React
+- Languages: HTML, CSS, JavaScript
+
+### 🛢️ Databases:
+MySQL, MongoDB, Redis
+
+### 🛠 DevOps Skills
+- Containerization: Docker
+- CI/CD: Jenkins, Nginx, Apache Tomcat, CI/CD pipelines
+- Cloud Platforms:
+  - AWS Services:
+    - EC2 (Elastic Compute Cloud)
+    - S3 (Simple Storage Service)
+    - RDS (Relational Database Service)
+    - IVS (Interactive video service)
+    - ECS (Elastic Container Service)
