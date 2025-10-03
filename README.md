@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shoaib Shaikh!  
 
-💻 I’m a passionate **Full Stack Developer 🚀** with expertise in High-Level and Low-Level Design (HLD/LLD), and strong problem-solving abilities.
+💻 I’m a passionate **Full Stack Developer 🚀** from INDIA with expertise in High-Level and Low-Level Design (HLD/LLD), and strong problem-solving abilities.
 
 ## 🔧 Technologies & Tools
 
