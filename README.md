@@ -5,7 +5,7 @@
 ## 🔧 Technologies & Tools
 
 ### 🚀 Backend Skills
-- Languages: Java, Javascript, Node.js, Spring Framework, Spring Boot, Hibernate, Microservices
+- Languages and Technologies: Java, Javascript, Node.js, Spring Framework, Spring Boot, Hibernate, Microservices
 - APIs: RESTful APIs, GraphQL
 
 ### 🎨 Frontend Skills
@@ -24,4 +24,10 @@
     - S3 (Simple Storage Service)
     - RDS (Relational Database Service)
     - IVS (Interactive video service)
-    - ECS (Elastic Container Service)
+    - AWS Media Live
+    - IAM (Identity and Access Management)
+- Other Tools: JFrog, Prometheus, Grafana
+
+### 🤝 Let's Connect
+[Linkedin](https://www.linkedin.com/in/shoaib-shaikh-052274187/)
+[Portfolio](https://v0-portfolio-website-creation-five-ochre.vercel.app/)
